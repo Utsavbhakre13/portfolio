@@ -1,0 +1,26 @@
+/* .parentDiv:hover {
+  color: aqua;
+}
+.parentDiv .childDiv {
+  color: brown;
+}
+
+p:first-line {
+  font-family: sans-serif;
+  font-size: 22px;
+  line-height: 1.5;
+  color: aquamarine;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: yellow;
+  font-size: 20px;
+}
+
+li :hover {
+  color: yellow;
+  background-color: black;
+} */
